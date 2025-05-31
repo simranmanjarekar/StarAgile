@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="Failed suite [ParallelClassesExecution]">
+  <test thread-count="5" parallel="classes" name="ParallelClassesExecution(failed)">
+    <classes>
+      <class name="com.TestNGDemos.PracticeAutomation">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="afterTest"/>
+          <include name="login"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.TestNGDemos.PracticeAutomation -->
+      <class name="com.TestNGDemos.LoginOrangeHRM">
+        <methods>
+          <include name="CloseBrowser"/>
+          <include name="Logout"/>
+          <include name="LaunchBrowser"/>
+          <include name="LoginOHRM2"/>
+        </methods>
+      </class> <!-- com.TestNGDemos.LoginOrangeHRM -->
+    </classes>
+  </test> <!-- ParallelClassesExecution(failed) -->
+</suite> <!-- Failed suite [ParallelClassesExecution] -->

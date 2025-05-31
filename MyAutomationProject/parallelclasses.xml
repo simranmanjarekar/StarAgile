@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ParallelClassesExecution" parallel="classes">
+<test name="ParallelClassesExecution">
+<classes>
+<class name="com.TestNGDemos.PracticeAutomation"></class>
+<class name="com.TestNGDemos.LoginOrangeHRM"></class>
+</classes>
+</test>
+</suite>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.utilities.ExtentReporter.java&apos; to &apos;Extentreporter.java&apos;&#x0D;&#x0A;- Original project: &apos;Ecommerce_Project&apos;&#x0D;&#x0A;- Original element: &apos;com.utilities.ExtentReporter.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.utilities.Extentreporter.java&apos;" description="Rename compilation unit &apos;ExtentReporter.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.utilities{ExtentReporter.java" name="Extentreporter.java" references="false" stamp="1746379624246" version="1.0"/>
+</session>

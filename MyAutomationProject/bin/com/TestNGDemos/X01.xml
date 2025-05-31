@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Automation" >
+<test name="My test">
+<classes>
+<class name="com.TestNGDemos.Assignment01">
+<methods>
+<include name="ClickOnMobiles"></include>
+</methods>
+</class>
+</classes>
+</test>
+</suite>

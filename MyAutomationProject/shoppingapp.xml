@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="My suite" thread-count="2" parallel="methods">
+<test name="My test">
+<classes>
+<class name="com.TestNGDemos.D01Test">
+</class>
+</classes>
+<!-- <groups> -->
+<!-- <run> -->
+<!-- <include name="set1"></include> -->
+<!-- </run> -->
+<!-- </groups> -->
+</test>
+</suite>
